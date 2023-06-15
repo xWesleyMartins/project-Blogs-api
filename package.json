@@ -1,9 +1,5 @@
 {
-  "homepage": "https://username.github.io/app-toot-name",
-  "scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-},
+  
   "name": "blogs-api",
   "version": "0.1.0",
   "engines": {
